@@ -1,5 +1,5 @@
 #include <stdio.h>
-//https://github.com/PanpandaC147/Computer-Programming/blob/7ada774844211a737d2827fca0ba558d9fe2cc35/Acitivty%202.0%20Functions.c
+
 int AG(int sci, int eng, int math, int pe, int hist);
 float DA(int sum);
 
